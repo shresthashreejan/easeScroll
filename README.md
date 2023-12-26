@@ -21,6 +21,6 @@ EaseScroll is a simple WordPress plugin that adds a customizable scroll-to-top b
 2. Customize the background and icon colors to suit your website's design.
 3. Save your changes.
 
-![easeScroll-settings](https://github.com/shresthashreejan/easeScroll/assets/79634187/396c81c1-cbf2-4795-8dc5-3305c81651ad)
+![easeScroll-settings](https://github.com/shresthashreejan/easeScroll/assets/79634187/40fab279-b238-4576-881f-d3cfa58a5466)
 
 The scroll-to-top button will now appear on your website, providing users with an effortless way to return to the top of the page.
