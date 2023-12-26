@@ -1,0 +1,19 @@
+#ease-scroll {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: var(--ease-scroll-bg-color, #000);
+    color: var(--ease-scroll-icon-color, #fff);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+#ease-scroll i {
+    font-size: 20px;
+}
